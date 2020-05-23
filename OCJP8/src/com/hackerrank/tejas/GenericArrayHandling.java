@@ -1,5 +1,10 @@
 package com.hackerrank.tejas;
 
+
+/* Make sure that you always use the element type in the class
+ * for the compiler to understand the type defined in the method
+ */
+
 public class GenericArrayHandling<E> {
 	
 	public void printArray(E e[])
